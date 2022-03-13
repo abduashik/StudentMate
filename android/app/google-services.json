@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654792238071",
+    "project_id": "studentsmate-ktm",
+    "storage_bucket": "studentsmate-ktm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654792238071:android:c677a4bcc17eee66a6c4f2",
+        "android_client_info": {
+          "package_name": "com.abdullah.students_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654792238071-od0gqkv70m7rfc19peme6st93ob7neov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNdczJqDfUQ68UIUC8MDnqNL_ZLvFAv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654792238071-od0gqkv70m7rfc19peme6st93ob7neov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
